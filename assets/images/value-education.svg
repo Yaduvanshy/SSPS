@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560">
+  <defs>
+    <linearGradient id="vBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ecfdf5"/>
+      <stop offset="100%" stop-color="#fffbeb"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#vBg)"/>
+  <circle cx="400" cy="210" r="150" fill="#fef3c7" opacity="0.8"/>
+  <!-- Rolling green hills -->
+  <path d="M0 430 Q220 355 440 420 T800 400 V560 H0 Z" fill="#10b981"/>
+  <path d="M0 465 Q300 410 580 460 T800 450 V560 H0 Z" fill="#059669"/>
+  <!-- Open Book Base -->
+  <path d="M210 385 c65 -26 130 -26 190 4 c60 -30 125 -30 190 -4 v46 c-65 -20 -130 -20 -190 6 c-60 -26 -125 -26 -190 -6 z" fill="#ffffff" stroke="#0f294a" stroke-width="5"/>
+  <line x1="400" y1="389" x2="400" y2="435" stroke="#94a3b8" stroke-width="3"/>
+  <!-- Growing Tree Sapling -->
+  <path d="M400 388 V235" stroke="#78350f" stroke-width="16" stroke-linecap="round"/>
+  <path d="M400 310 c-48 -18 -78 -55 -68 -95 c45 5 76 38 68 95 z" fill="#059669"/>
+  <path d="M400 285 c48 -18 78 -55 68 -95 c-45 5 -76 38 -68 95 z" fill="#10b981"/>
+  <path d="M400 245 c-32 -32 -45 -72 -18 -102 c30 22 36 62 18 102 z" fill="#34d399"/>
+  <path d="M400 245 c32 -32 45 -72 18 -102 c-30 22 -36 62 -18 102 z" fill="#10b981"/>
+  <!-- Sunbeams / Values Medals -->
+  <circle cx="205" cy="145" r="34" fill="#ffffff" stroke="#fde68a" stroke-width="4"/>
+  <polygon points="205,123 211,137 226,137 214,146 218,160 205,152 192,160 196,146 184,137 199,137" fill="#f59e0b"/>
+  <circle cx="595" cy="145" r="34" fill="#ffffff" stroke="#bbf7d0" stroke-width="4"/>
+  <path d="M582 145 l10 10 l18 -20" fill="none" stroke="#059669" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

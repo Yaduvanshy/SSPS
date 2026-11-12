@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560">
+  <rect width="800" height="560" fill="#f0fdf4"/>
+  <circle cx="620" cy="140" r="110" fill="#dcfce7"/>
+  <circle cx="190" cy="410" r="130" fill="#fef3c7"/>
+  <!-- Easel & Canvas -->
+  <line x1="250" y1="490" x2="360" y2="120" stroke="#92400e" stroke-width="14" stroke-linecap="round"/>
+  <line x1="510" y1="490" x2="400" y2="120" stroke="#92400e" stroke-width="14" stroke-linecap="round"/>
+  <rect x="240" y="135" width="280" height="230" rx="14" fill="#ffffff" stroke="#cbd5e1" stroke-width="5"/>
+  <!-- Painted landscape inside canvas -->
+  <rect x="260" y="155" width="240" height="190" rx="8" fill="#eff6ff"/>
+  <circle cx="440" cy="200" r="24" fill="#f59e0b"/>
+  <polygon points="260,345 345,235 425,345" fill="#059669"/>
+  <polygon points="355,345 435,250 500,345" fill="#10b981"/>
+  <!-- Paint Palette -->
+  <path d="M510 355 c65 -25 140 15 135 72 c-4 45 -52 65 -98 52 c-22 -6 -25 -28 -5 -42 c18 -12 8 -32 -18 -32 c-28 0 -38 -36 -14 -50 z" fill="#ffffff" stroke="#cbd5e1" stroke-width="4"/>
+  <circle cx="538" cy="378" r="13" fill="#dc2626"/>
+  <circle cx="580" cy="368" r="13" fill="#f59e0b"/>
+  <circle cx="614" cy="395" r="13" fill="#2563eb"/>
+  <circle cx="602" cy="435" r="13" fill="#059669"/>
+  <circle cx="556" cy="445" r="11" fill="#7c3aed"/>
+</svg>

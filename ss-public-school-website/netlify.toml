@@ -1,0 +1,40 @@
+[build]
+  publish = "."
+
+[build.processing.html]
+  pretty_urls = true
+
+[[redirects]]
+  from = "/index.html"
+  to = "/"
+  status = 301
+
+[[redirects]]
+  from = "/about.html"
+  to = "/about/"
+  status = 301
+
+[[redirects]]
+  from = "/academics.html"
+  to = "/academics/"
+  status = 301
+
+[[redirects]]
+  from = "/faculty.html"
+  to = "/faculty/"
+  status = 301
+
+[[redirects]]
+  from = "/gallery.html"
+  to = "/gallery/"
+  status = 301
+
+[[redirects]]
+  from = "/admission.html"
+  to = "/admission/"
+  status = 301
+
+[[redirects]]
+  from = "/contact.html"
+  to = "/contact/"
+  status = 301

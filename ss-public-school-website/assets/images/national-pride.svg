@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560">
+  <rect width="800" height="560" fill="#eff6ff"/>
+  <circle cx="640" cy="120" r="65" fill="#fef3c7"/>
+  <!-- Green ground -->
+  <rect x="0" y="420" width="800" height="140" fill="#dcfce7"/>
+  <!-- Pedestal -->
+  <rect x="190" y="385" width="120" height="45" rx="6" fill="#cbd5e1"/>
+  <rect x="215" y="355" width="70" height="32" rx="4" fill="#94a3b8"/>
+  <!-- Flag Pole -->
+  <rect x="245" y="95" width="10" height="265" rx="4" fill="#0f294a"/>
+  <circle cx="250" cy="90" r="11" fill="#f59e0b"/>
+  <!-- Indian Tricolor Flag -->
+  <rect x="255" y="106" width="290" height="58" fill="#ff9933"/>
+  <rect x="255" y="164" width="290" height="58" fill="#ffffff"/>
+  <rect x="255" y="222" width="290" height="58" fill="#138808"/>
+  <circle cx="400" cy="193" r="22" fill="none" stroke="#000080" stroke-width="3.5"/>
+  <circle cx="400" cy="193" r="4" fill="#000080"/>
+  <!-- School arch silhouette -->
+  <rect x="440" y="315" width="270" height="105" rx="10" fill="#ffffff" stroke="#dbeafe" stroke-width="4"/>
+  <rect x="470" y="340" width="42" height="50" rx="6" fill="#bfdbfe"/>
+  <rect x="554" y="340" width="42" height="50" rx="6" fill="#bfdbfe"/>
+  <rect x="638" y="340" width="42" height="50" rx="6" fill="#bfdbfe"/>
+</svg>

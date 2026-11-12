@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560">
+  <rect width="800" height="560" fill="#fffbeb"/>
+  <circle cx="400" cy="270" r="195" fill="#fef3c7"/>
+  <circle cx="400" cy="270" r="140" fill="#fde68a" opacity="0.65"/>
+  <!-- Marigold garland -->
+  <g fill="#f59e0b">
+    <circle cx="110" cy="40" r="22"/><circle cx="165" cy="65" r="20"/><circle cx="225" cy="80" r="22"/>
+    <circle cx="290" cy="88" r="20"/><circle cx="355" cy="92" r="22"/><circle cx="445" cy="92" r="22"/>
+    <circle cx="510" cy="88" r="20"/><circle cx="575" cy="80" r="22"/><circle cx="635" cy="65" r="20"/>
+    <circle cx="690" cy="40" r="22"/>
+  </g>
+  <!-- Center Diya -->
+  <ellipse cx="400" cy="410" rx="185" ry="30" fill="#fde68a"/>
+  <path d="M250 345 q150 95 300 0 c-15 62 -75 95 -150 95 c-75 0 -135 -33 -150 -95 z" fill="#b45309"/>
+  <path d="M275 345 q125 55 250 0 q-125 -32 -250 0 z" fill="#d97706"/>
+  <path d="M400 205 c35 55 45 95 0 130 c-45 -35 -35 -75 0 -130 z" fill="#f59e0b"/>
+  <path d="M400 245 c18 32 22 55 0 78 c-22 -23 -18 -46 0 -78 z" fill="#fef08a"/>
+  <!-- Side Diyas -->
+  <path d="M135 375 q65 42 130 0 c-8 28 -32 42 -65 42 c-33 0 -57 -14 -65 -42 z" fill="#0f294a"/>
+  <path d="M200 315 c16 25 20 45 0 60 c-20 -15 -16 -35 0 -60 z" fill="#f59e0b"/>
+  <path d="M535 375 q65 42 130 0 c-8 28 -32 42 -65 42 c-33 0 -57 -14 -65 -42 z" fill="#0f294a"/>
+  <path d="M600 315 c16 25 20 45 0 60 c-20 -15 -16 -35 0 -60 z" fill="#f59e0b"/>
+</svg>
